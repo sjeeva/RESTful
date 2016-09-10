@@ -1,4 +1,4 @@
-FROM node
+FROM node:6.5
 
 MAINTAINER Jeeva S. Chelladhurai
 
