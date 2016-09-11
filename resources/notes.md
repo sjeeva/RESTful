@@ -12,10 +12,10 @@
 * Portability
 * Reliability
 
-## Architectural Constraints
+## Architectural Constraints (six characteristics)
 * Client-Server
 * Stateless
 * Cacheable
 * Layered System
-* COde on demand (optional)
 * Uniform Interface
+* Code on demand (optional)
